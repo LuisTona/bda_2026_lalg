@@ -1,7 +1,5 @@
 title: Big Data Aplicado
 
-theme: jekyll-theme-cayman
-
 plugins:
   - jemoji
 
@@ -10,4 +8,4 @@ defaults:
       path: ""
       type: "pages"
     values:
-      layout: default
+      layout: null
