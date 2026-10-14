@@ -1,2 +1,13 @@
+title: Big Data Aplicado
+
+theme: jekyll-theme-cayman
+
 plugins:
   - jemoji
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
