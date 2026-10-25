@@ -1,5 +1,5 @@
 ---
-title: :blue_book: Unidad 01
+title: ":blue_book: Unidad 01"
 layout: default
 ---
 
